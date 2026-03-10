@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\documents\\unreal projects\\axolotl_ia\\source\\axolotl_ia\\axolotl_iacameramanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\documents\\unreal projects\\axolotl_ia\\intermediate\\build\\win64\\x64\\axolotl_iaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\documents\\unreal projects\\axolotl_ia\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\axolotl_ia\\definitions.axolotl_ia.h",
+            "c:\\users\\usuario\\documents\\unreal projects\\axolotl_ia\\source\\axolotl_ia\\axolotl_iacameramanager.h",
+            "c:\\users\\usuario\\documents\\unreal projects\\axolotl_ia\\intermediate\\build\\win64\\unrealeditor\\inc\\axolotl_ia\\uht\\axolotl_iacameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

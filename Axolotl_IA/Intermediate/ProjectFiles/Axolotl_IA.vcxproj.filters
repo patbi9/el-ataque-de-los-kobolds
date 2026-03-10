@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Axolotl_IA.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Axolotl_IA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Axolotl_IAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Axolotl_IA">
+      <UniqueIdentifier>{D5DCD241-B2EE-3F30-B9F3-B0010E853A75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Axolotl_IA\Axolotl_IA.Build.cs">
+      <Filter>Source\Axolotl_IA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Axolotl_IA.cpp">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Axolotl_IA.h">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Axolotl_IACameraManager.cpp">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Axolotl_IACameraManager.h">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Axolotl_IACharacter.cpp">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Axolotl_IACharacter.h">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Axolotl_IAGameMode.cpp">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Axolotl_IAGameMode.h">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Axolotl_IAPlayerController.cpp">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Axolotl_IAPlayerController.h">
+      <Filter>Source\Axolotl_IA</Filter>
+    </ClInclude>
+    <Filter Include="Source\Axolotl_IA\Variant_Horror">
+      <UniqueIdentifier>{3174CFCD-7416-33B9-B3F4-2D31B0139A6E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\Axolotl_IA\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\Axolotl_IA\Variant_Horror\UI">
+      <UniqueIdentifier>{A228299C-D8F5-32DD-B57C-1A2654AEA055}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\Axolotl_IA\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Axolotl_IA\Variant_Shooter">
+      <UniqueIdentifier>{4CB208E0-BCD1-3AD5-8721-8E96ABB1F86E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Axolotl_IA\Variant_Shooter\AI">
+      <UniqueIdentifier>{4DDED0F3-D26B-395D-8412-1E909AB9183C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\Axolotl_IA\Variant_Shooter\UI">
+      <UniqueIdentifier>{9F6A03CB-98DA-3FD5-A44D-0B94198E37DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Axolotl_IA\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{8F70F154-AE97-3C0A-A78E-5CC751A1E465}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Axolotl_IA\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\Axolotl_IA\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Axolotl_IA",
+			"Path": "..\\Source\\Axolotl_IA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Axolotl_IAEditor",
+			"Path": "..\\Source\\Axolotl_IAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

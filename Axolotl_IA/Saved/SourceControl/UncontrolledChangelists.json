@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/Variant_Shooter/Blueprints/AI/BB_Enemy.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/Variant_Shooter/Blueprints/AI/BT_Enemy.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/ARPawn.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/ST_CardPointer.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Cards/WBP_Card.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Cards/Structure/ST_SpellData.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Monkamis/ST_MonkamiData.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Monkamis/WBP_HealthBar.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/BP_BattleSlot.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Monkamis/BP_Monkami_Master.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/Monkamis/AIC_Monkami_Wild.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Content/MonkamiCode/Content/ARSessionConfig.uasset"
+			]
+		}
+	]
+}

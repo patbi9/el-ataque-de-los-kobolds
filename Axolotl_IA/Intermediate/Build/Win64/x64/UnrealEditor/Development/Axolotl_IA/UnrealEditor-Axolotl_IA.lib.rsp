@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Axolotl_IA.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/Axolotl_IAEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Module.Axolotl_IA.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Axolotl_IA.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Axolotl_IACameraManager.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Axolotl_IACharacter.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Axolotl_IAGameMode.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Axolotl_IAPlayerController.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/HorrorCharacter.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/HorrorGameMode.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/HorrorPlayerController.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/HorrorUI.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterCharacter.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterGameMode.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterPlayerController.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/EnvQueryContext_Target.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterAIController.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterNPC.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterNPCSpawner.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterStateTreeUtility.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterBulletCounterUI.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterUI.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterPickup.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterProjectile.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterWeapon.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/ShooterWeaponHolder.cpp.obj"
+"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/Default.rc2.res"
+/OUT:"C:/Users/Usuario/Documents/Unreal Projects/Axolotl_IA/Intermediate/Build/Win64/x64/UnrealEditor/Development/Axolotl_IA/UnrealEditor-Axolotl_IA.lib"
