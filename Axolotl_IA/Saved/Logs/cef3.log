@@ -1,5 +1,64 @@
-[8712:27400:0310/162316.456:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8712:22888:0310/162316.528:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8712:27400:0310/162316.574:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10312:29612:0310/162321.831:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AB603EF112C9A2D542B4630B14B5158D will be ignored
-[8712:27400:0310/170410.892:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21472:7876:0311/101101.892:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21472:25824:0311/101102.344:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21472:7876:0311/101102.516:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13424:9480:0311/101115.955:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-30BE170935FA67FBE9340D999E055B0F will be ignored
+[21472:11244:0311/101117.282:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101250.951:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101400.829:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101458.918:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101602.020:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101701.642:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101801.477:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/101908.797:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102006.903:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102106.561:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102206.206:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102313.310:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102412.968:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102514.141:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102613.959:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102719.460:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102829.545:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/102931.647:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103043.840:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103143.511:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103246.819:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103346.453:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103453.587:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103551.678:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103651.316:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103750.965:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103901.045:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/103959.135:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104102.274:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104202.049:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104305.206:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104405.034:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104515.123:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104614.757:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104719.687:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104829.873:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/104929.504:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105032.596:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105132.241:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105235.382:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105335.649:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105439.096:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105619.125:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105722.796:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105822.414:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/105922.047:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110029.131:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110129.380:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110233.046:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110332.678:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110432.823:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110535.987:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110635.753:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110810.584:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/110917.706:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/111013.779:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/111113.617:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/111213.266:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:11244:0311/111344.351:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21472:7876:0311/111416.675:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
